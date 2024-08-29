@@ -1,7 +1,8 @@
 #Terms ( danh từ )
 
 Repository (Rep/repo): tên dự án
-Branch: cành cây( master)
+Branch: nhánh cây( master): trong dự án thì mỗi phần sẽ là một nhánh
+Conflict: xung đột
 
 #commands
 
@@ -18,3 +19,6 @@ Branch: cành cây( master)
 -git checkout {branch name}: trở lại thời điểm hiện tại
 -git branch: để xem tên của branch (mặc định là master)
 -git checkout -b {branch name}: tạo ra một branch mới
+
+-git merge {tên branch muốn hợp lại}: hợp branch lại với nhau
+-git branch -d {branch name}: xóa branch 
