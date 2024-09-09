@@ -22,3 +22,4 @@ Conflict: xung đột
 
 -git merge {tên branch muốn hợp lại}: hợp branch lại với nhau
 -git branch -d {branch name}: xóa branch 
+
